@@ -3,7 +3,7 @@
     "displayName": "rocket-ui",
     "repository": {
         "type": "git",
-        "url": "g3off/rocket-ui"
+        "url": "harlockk/rocket-ui"
     },
     "icon": "icon.png",
     "description": "A blazing fast UI theme color made for VSCode to conquer stars, planet and space.",
